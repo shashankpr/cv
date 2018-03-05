@@ -1,28 +1,15 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Master Thesis student
+  time: Oct 2017 - Present
+  company: Centrum Wiskunde and Informatica, Amsterdam
+  details: "Sleep classification using Unsupervised feature learning from BCG signals"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Machine Learning Engineer
+  time: Feb 2016 - Present
+  company: TurtleShell Technologies Pvt. Ltd., Bengaluru, India
+  details: "My work at Dozee involves building an automated machine learning pipeline for extraction of sensor signals into heart, breathing and movement signals and later, automating the prediction of sleep stages of an individual from these signals. Ultimately, we aim to quantify the sleep quality of an individual and help them improve their sleep quality. Currently employing various kinds of classification algorithms like SVM and Neural Network to accurately predict the sleep stages. The accuracy of the classifier has been validated against the results from the India's leading sleep research lab, NIMHANS."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: DevOps Intern
+  time: Oct 2015 - Dec 2015
+  company: ChalkStreet, Bengaluru, India
+  details: ""
