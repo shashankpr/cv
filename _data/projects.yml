@@ -1,23 +1,16 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: HeyDobby
+    link: "https://github.com/shashankpr/HeyDobby"
+    tagline: "An assistant-cum-chatbot that I developed for powering my home IoT hub, Smart Mirror and for providing real-time speech-to-text transcription. The ultimate aim is to make it aware of the surroundings and recognize the speaker, thus helping people with hearing disability to understand and communicate in a group.
+    Technology stack: Python, TensorFlow, RPi, Flask, Wit.ai"
   - project:
-    title: DevStudio
+    title: Credit Fraud Detection
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Anomaly Detection on Adyen's credit dataset using PCA and ARIMA models.
+    Technology stack: Python, scikit-learn, statsmodel."
   - project:
-    title: Tempo
+    title: CareFinder
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "A web search engine to search for hospitals and clinics by the type of specialist care they offer.
+    Technology stack: Python, BeautifulSoup, Neo4J"

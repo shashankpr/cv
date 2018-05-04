@@ -1,15 +1,17 @@
 - experience:
-  role: Master Thesis student
+  role: Master Thesis Student
   time: Oct 2017 - Present
-  company: Centrum Wiskunde and Informatica, Amsterdam
-  details: "Sleep classification using Unsupervised feature learning from BCG signals"
+  company: Centrum Wiskunde and Informatica (Amsterdam, NL)
+  details: "A sensor-agnostic approach towards sleep classification by using Unsupervised Feature learning models.
+  The research is based on employing 1D-ConvNets and LSTM layers to improve the classification accuracy of sleep classification system using wearable data."
+- experience:
+  role: Machine Learning Intern
+  time: Jun 2017 - Aug 2017
+  company: Zoho Corporation (Chennai, IN)
+  details: "Bayesian Optimization model on pgSQL DB to to reduce the bloating and downtime caused due to manual vacuuming. Improved the reduction in DB lockdown by 40% (4-5sec per table).
+  Has been deployed into the production environment of some of their business products."
 - experience:
   role: Machine Learning Engineer
   time: Feb 2016 - Present
-  company: TurtleShell Technologies Pvt. Ltd., Bengaluru, India
-  details: "My work at Dozee involves building an automated machine learning pipeline for extraction of sensor signals into heart, breathing and movement signals and later, automating the prediction of sleep stages of an individual from these signals. Ultimately, we aim to quantify the sleep quality of an individual and help them improve their sleep quality. Currently employing various kinds of classification algorithms like SVM and Neural Network to accurately predict the sleep stages. The accuracy of the classifier has been validated against the results from the India's leading sleep research lab, NIMHANS."
-- experience:
-  role: DevOps Intern
-  time: Oct 2015 - Dec 2015
-  company: ChalkStreet, Bengaluru, India
-  details: ""
+  company: TurtleShell Technologies Pvt. Ltd. (Bengaluru, IN)
+  details: "Machine learning pipeline for predicting and quantifying the sleep quality of an individual from ballistocardiogram (BCG) signal. Improved classification accuracy to 65-70% and replaced the rule-based system with ML."

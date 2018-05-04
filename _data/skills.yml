@@ -3,16 +3,19 @@
   level: 90%
 - skill:
   name: Keras, TensorFlow
-  level: 89%
+  level: 85%
 - skill:
   name: Machine Learning
-  level: 95%
+  level: 85%
 - skill:
   name: Deep Learning
-  level: 95%
+  level: 85%
 - skill:
   name: NumPy, SciPy, Pandas
-  level: 88%
+  level: 90%
 - skill:
   name: MATLAB
-  level: 80%
+  level: 70%
+- skill:
+  name: R
+  level: 60%
