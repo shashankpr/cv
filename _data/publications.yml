@@ -1,0 +1,10 @@
+title: Publications
+publications:
+  - paper:
+    title: "Mining motivated trends of usage of Haskell libraries"
+    authors: Juchli, M., Krombeen, L., Rao, S., Yu, C.S., Sawant, A.A. and Bacchelli, A.
+    conference: "API Usage and Evolution (WAPI), 2017 IEEE/ACM 1st International Workshop on (pp. 11-14). IEEE"
+  - paper:
+    title: "Portable Trust: biometric-based authentication and blockchain storage for self-sovereign identity systems"
+    authors: Hammudoglu, J.S., Sparreboom, J., Rauhamaa, J.I., Faber, J.K., Guerchi, L.C., Samiotis, I.P., Rao, S.P. and Pouwelse, J.A.
+    conference: "arXiv preprint arXiv:1706.03744"
